@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /js/
+Disallow: /tags/
+Disallow: /css/
+Disallow: /img/
+Disallow: /404.html
+Disallow: /CNAME
+Disallow: /favicon.ico
+Sitemap: https://www.tbfeng.com/sitemap.xml
+Sitemap: https://www.tbfeng.com/baidusitemap.xml
