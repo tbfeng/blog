@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.tbfeng.com/"/>
-  <updated>2019-05-29T15:38:44.319Z</updated>
+  <updated>2019-05-30T15:35:24.087Z</updated>
   <id>https://www.tbfeng.com/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>拼音的前世今生</title>
+    <link href="https://www.tbfeng.com/hanyu-pinyin.html"/>
+    <id>https://www.tbfeng.com/hanyu-pinyin.html</id>
+    <published>2019-05-29T16:00:00.000Z</published>
+    <updated>2019-05-30T15:35:24.087Z</updated>
+    
+    <content type="html"><![CDATA[<p>如果你要学汉语，通常都会学习汉语拼音。汉语拼音其实是普通话（Standard Mandarin/Putonghua）的语音标记系统。<a id="more"></a></p><p>中国幅员辽阔，虽然我们用的文字都是汉字，但是不同地区会有不同的发音，形成各自的方言。因此，相应的，也就可以有粤语拼音、闽南语拼音、吴语拼音、客家语拼音等。而汉语拼音方案（汉字注音拉丁化方案），则是在1958年全国人民代表大会批准公布的。</p><p>那么，在汉语拼音之前，人们怎么标记汉字的读音呢？</p><p>如果没有标记，语音就只能依靠人们口耳朵相传。汉语拼音之前发展出的注音方法大致分为一下几种：</p><h4 id="譬况"><a href="#譬况" class="headerlink" title="譬况"></a>譬况</h4><p>譬况法通过对口的张合、舌头位置、送气急缓、声调长短等的描述来说明汉字的发音。用现代发音很好举例，例如“啊”的发音，就可以描述为：嘴巴张开较大、舌头靠近下颚、缓慢送气、声调较长。古文中也有相关的例子，《淮南子·修务训》：“胡人有知利者，而人谓之駤。” 高诱注：“駤读似质，缓气言之者，在舌头乃得。”《释名·释天》：“天，豫、司、兖、冀以舌腹言之。天，显也，在上高显也。清、徐以舌头言之。”</p><h4 id="读若"><a href="#读若" class="headerlink" title="读若"></a>读若</h4><p>读若法用一个发音相近的较常见的字来注明某字的读音。例如，《说文解字》：“琎，石之似玉者，从玉，进声，读若津。”“玽，石之次玉者，从玉，句声，读若苟。”“鼾，卧息也，干声，读若汗。”</p><h4 id="直音"><a href="#直音" class="headerlink" title="直音"></a>直音</h4><p>直音法是选用一个与被注字读音完全相同的汉字来注音。其实就是同音字，利用一组同音字中相对简单、常见的字来标注这组字中其它字的发音。比如，陆德明《经典释文》：“阜，音妇” “薇，音微”，《汉书·高帝纪》中记载“单父人吕公善沛令”，其注引孟康的话说：“单，音善；父，音甫。”</p><h4 id="反切"><a href="#反切" class="headerlink" title="反切"></a>反切</h4><p>反切法是利用两个汉字来拼注一个汉字读音的注音方法。反切上字与被切字同声母，反切下字与被切字同韵母同声调。 这也是古代所用时间最久的注音方法。《康熙字典》中的文字主要采用反切法注音，如“武，文甫切”</p><h4 id="威妥玛拼音"><a href="#威妥玛拼音" class="headerlink" title="威妥玛拼音"></a>威妥玛拼音</h4><p>英国人威妥玛为了方便外国人学习汉语，编著了《寻津录》和《语言自迩集》。在这两部著作中，威妥玛给出了使用拉丁字母为汉字注音的方案。近代，威妥玛拼音被广泛使用在人名、地名的注音。例如，“北京”的威妥玛拼音为：Peking.</p><h4 id="注音符号"><a href="#注音符号" class="headerlink" title="注音符号"></a>注音符号</h4><p>民国时期,为了统一字音,中华民国教育部召集了一个“读音统一会”，将章太炎研制的一套注音符号修订为“注音字母”。“ㄅㄆㄇㄈㄉㄊㄋ”表示“b p m f d t n ”，小时后查新华字典的时候，你肯定看到过。中国台湾地区，使用的是注音符号。</p><p>新中国成立后，开始制定汉语拼音方案，到1958年全国人民代表大会正式公布，确定《汉语拼音方案》作为拼写汉语普通话的国家标准。1982年ISO 7098《信息与文献工作——中文罗马字母拼写法》正式通过。从此，汉语拼音从中国的国家规范成为了国际标准。</p><p>转载自：<a href="https://shiyufeng.com/han-yu-pinyin.html" target="_blank" rel="noopener">https://shiyufeng.com/han-yu-pinyin.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如果你要学汉语，通常都会学习汉语拼音。汉语拼音其实是普通话（Standard Mandarin/Putonghua）的语音标记系统。
+    
+    </summary>
+    
+    
+      <category term="pinyin" scheme="https://www.tbfeng.com/tags/pinyin/"/>
+    
+  </entry>
   
   <entry>
     <title>脱发小伙的自救指南</title>
@@ -274,31 +294,6 @@
   </entry>
   
   <entry>
-    <title>实用搜索技巧</title>
-    <link href="https://www.tbfeng.com/search-skills-you-should-know.html"/>
-    <id>https://www.tbfeng.com/search-skills-you-should-know.html</id>
-    <published>2017-05-20T16:00:00.000Z</published>
-    <updated>2019-01-06T10:07:59.976Z</updated>
-    
-    <content type="html"><![CDATA[<p>搜索引擎索引了网上的大量网页，用好搜索引擎，想搜什么就搜什么 ：）</p><p>平时你可能想搜什么，直接输入关键字回车就行，但如果你能使用一些搜索技巧，会让你更快，更轻松的搜到想要的结果哦。</p><h2 id="搜索引擎的选择"><a href="#搜索引擎的选择" class="headerlink" title="搜索引擎的选择"></a>搜索引擎的选择</h2><p>优先使用Google，其次必应，最后百度。</p><h2 id="site"><a href="#site" class="headerlink" title="site"></a>site</h2><p>site语法是SEO的必用语法。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">site:www.tbfeng.com 搜索该搜索引擎索引的特定网站。</span><br><span class="line">keywords site:www.tbfeng.com 站内搜索keywords的内容</span><br></pre></td></tr></table></figure></p><p>结合其他语法，用法还有很多。</p><h2 id="双引号"><a href="#双引号" class="headerlink" title="双引号"></a>双引号</h2><p>使用双引号“keywords”表示完全匹配关键词，连顺序都不变</p><h2 id="filetype"><a href="#filetype" class="headerlink" title="filetype"></a>filetype</h2><p>filetype:doc等。<br>如：</p><p>go语言教程 filetype:pdf </p><p>搜到的就全是pdf文件了。</p><h2 id="使用减号"><a href="#使用减号" class="headerlink" title="使用减号"></a>使用减号</h2><p>减号表示不包含特定内容，如：</p><p>业余无线电台 -车台</p><p>注意空格，减号后是紧跟着的。</p><h2 id="intitle"><a href="#intitle" class="headerlink" title="intitle"></a>intitle</h2><p>intitle:keywords返回的页面的标题包含关键字</p><h2 id="inurl"><a href="#inurl" class="headerlink" title="inurl"></a>inurl</h2><p>inurl可以这样用：</p><p>inurl:org 健康</p><p>返回的结果为匹配关键词且网站带org的网页。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>高级的搜索语法还有很多，这里给出的都是最常用，易用的，灵活的将它们组合起来使用，能满足大部分的搜索需求啦</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;搜索引擎索引了网上的大量网页，用好搜索引擎，想搜什么就搜什么 ：）&lt;/p&gt;
-&lt;p&gt;平时你可能想搜什么，直接输入关键字回车就行，但如果你能使用一些搜索技巧，会让你更快，更轻松的搜到想要的结果哦。&lt;/p&gt;
-&lt;h2 id=&quot;搜索引擎的选择&quot;&gt;&lt;a href=&quot;#搜索引擎的选择&quot; 
-      
-    
-    </summary>
-    
-    
-      <category term="搜索技巧" scheme="https://www.tbfeng.com/tags/%E6%90%9C%E7%B4%A2%E6%8A%80%E5%B7%A7/"/>
-    
-  </entry>
-  
-  <entry>
     <title>《夹边沟记事》读后感</title>
     <link href="https://www.tbfeng.com/what-happened-in-Jiabiangou.html"/>
     <id>https://www.tbfeng.com/what-happened-in-Jiabiangou.html</id>
@@ -350,6 +345,31 @@
       <category term="自学Go" scheme="https://www.tbfeng.com/tags/%E8%87%AA%E5%AD%A6Go/"/>
     
       <category term="Go语法" scheme="https://www.tbfeng.com/tags/Go%E8%AF%AD%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>实用搜索技巧</title>
+    <link href="https://www.tbfeng.com/search-skills-you-should-know.html"/>
+    <id>https://www.tbfeng.com/search-skills-you-should-know.html</id>
+    <published>2017-05-20T16:00:00.000Z</published>
+    <updated>2019-01-06T10:07:59.976Z</updated>
+    
+    <content type="html"><![CDATA[<p>搜索引擎索引了网上的大量网页，用好搜索引擎，想搜什么就搜什么 ：）</p><p>平时你可能想搜什么，直接输入关键字回车就行，但如果你能使用一些搜索技巧，会让你更快，更轻松的搜到想要的结果哦。</p><h2 id="搜索引擎的选择"><a href="#搜索引擎的选择" class="headerlink" title="搜索引擎的选择"></a>搜索引擎的选择</h2><p>优先使用Google，其次必应，最后百度。</p><h2 id="site"><a href="#site" class="headerlink" title="site"></a>site</h2><p>site语法是SEO的必用语法。<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">site:www.tbfeng.com 搜索该搜索引擎索引的特定网站。</span><br><span class="line">keywords site:www.tbfeng.com 站内搜索keywords的内容</span><br></pre></td></tr></table></figure></p><p>结合其他语法，用法还有很多。</p><h2 id="双引号"><a href="#双引号" class="headerlink" title="双引号"></a>双引号</h2><p>使用双引号“keywords”表示完全匹配关键词，连顺序都不变</p><h2 id="filetype"><a href="#filetype" class="headerlink" title="filetype"></a>filetype</h2><p>filetype:doc等。<br>如：</p><p>go语言教程 filetype:pdf </p><p>搜到的就全是pdf文件了。</p><h2 id="使用减号"><a href="#使用减号" class="headerlink" title="使用减号"></a>使用减号</h2><p>减号表示不包含特定内容，如：</p><p>业余无线电台 -车台</p><p>注意空格，减号后是紧跟着的。</p><h2 id="intitle"><a href="#intitle" class="headerlink" title="intitle"></a>intitle</h2><p>intitle:keywords返回的页面的标题包含关键字</p><h2 id="inurl"><a href="#inurl" class="headerlink" title="inurl"></a>inurl</h2><p>inurl可以这样用：</p><p>inurl:org 健康</p><p>返回的结果为匹配关键词且网站带org的网页。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>高级的搜索语法还有很多，这里给出的都是最常用，易用的，灵活的将它们组合起来使用，能满足大部分的搜索需求啦</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;搜索引擎索引了网上的大量网页，用好搜索引擎，想搜什么就搜什么 ：）&lt;/p&gt;
+&lt;p&gt;平时你可能想搜什么，直接输入关键字回车就行，但如果你能使用一些搜索技巧，会让你更快，更轻松的搜到想要的结果哦。&lt;/p&gt;
+&lt;h2 id=&quot;搜索引擎的选择&quot;&gt;&lt;a href=&quot;#搜索引擎的选择&quot; 
+      
+    
+    </summary>
+    
+    
+      <category term="搜索技巧" scheme="https://www.tbfeng.com/tags/%E6%90%9C%E7%B4%A2%E6%8A%80%E5%B7%A7/"/>
     
   </entry>
   
@@ -544,40 +564,6 @@
       <category term="必应收录" scheme="https://www.tbfeng.com/tags/%E5%BF%85%E5%BA%94%E6%94%B6%E5%BD%95/"/>
     
       <category term="谷歌收录" scheme="https://www.tbfeng.com/tags/%E8%B0%B7%E6%AD%8C%E6%94%B6%E5%BD%95/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>解决Hexo博客不同页面的分页问题</title>
-    <link href="https://www.tbfeng.com/hexo-blog-pagination-and-per-page.html"/>
-    <id>https://www.tbfeng.com/hexo-blog-pagination-and-per-page.html</id>
-    <published>2017-04-30T16:00:00.000Z</published>
-    <updated>2019-01-06T10:05:37.912Z</updated>
-    
-    <content type="html"><![CDATA[<p>在使用hexo博客时，遇到了“归档”下的文章分页的问题。好在网上搜索后问题得到解决，这里记录一下解决办法。</p><p>实际上，hexo博客默认只给出了Index页面下文章的分页配置。要想增加其他页面的分页配置，需要打开hexo配置文件<em>_config.yml</em>，注意，不是主题目录下的配置文件，而是hexo根目录下的配置文件。<br>增加以下配置：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">#主页每页显示文章数</span><br><span class="line">index_generator:</span><br><span class="line">    per_page: 10</span><br><span class="line">#archive分页每页显示文章数</span><br><span class="line">archive_generator:</span><br><span class="line">    per_page: 30</span><br><span class="line">#tag分页每页显示文章数</span><br><span class="line">tag_generator:</span><br><span class="line">    per_page: 30</span><br><span class="line">#category分页每页显示文章数</span><br><span class="line">category_generator: </span><br><span class="line">    per_page: 30</span><br></pre></td></tr></table></figure></p><p>per_page后对应的数字就是每页最大文章篇数，如果某页面被设置为‘0’，那么该页面就不会分页了。<br>要注意的是，hexo 自带配置里已经有了主页的分页配置：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"># Pagination #分页</span><br><span class="line">per_page: 10 #每页文章数, 设置成 0 禁用分页</span><br><span class="line">pagination_dir: page</span><br></pre></td></tr></table></figure></p><p>所以我们在这里只需增加没有的配置即可，我的博客就只增加了“归档”页面的配置：<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">#archive分页每页显示文章数</span><br><span class="line">archive_generator:</span><br><span class="line">    per_page: 0</span><br></pre></td></tr></table></figure></p><p>我将分页数设置为‘0’，这样就不会分页了。</p><p>这是增加之前的效果：我主页设置分页数为‘8’，因此这里也只显示8篇文章。。。<br><img src="https://wx4.sinaimg.cn/mw690/006MIJAjgy1ff5nkp5woej317m0zyn2g.jpg" alt="增加之前效果"><br>这是增加之后的效果：文章全部显示，没有分页了：)<br><img src="https://wx3.sinaimg.cn/mw690/006MIJAjgy1ff5nkqc5hbj30yo0yitdz.jpg" alt="增加之后效果"></p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;在使用hexo博客时，遇到了“归档”下的文章分页的问题。好在网上搜索后问题得到解决，这里记录一下解决办法。&lt;/p&gt;
-&lt;p&gt;实际上，hexo博客默认只给出了Index页面下文章的分页配置。要想增加其他页面的分页配置，需要打开hexo配置文件&lt;em&gt;_config.yml&lt;/e
-      
-    
-    </summary>
-    
-      <category term="tech" scheme="https://www.tbfeng.com/categories/tech/"/>
-    
-    
-      <category term="Hexo" scheme="https://www.tbfeng.com/tags/Hexo/"/>
-    
-      <category term="index" scheme="https://www.tbfeng.com/tags/index/"/>
-    
-      <category term="archive" scheme="https://www.tbfeng.com/tags/archive/"/>
-    
-      <category term="分页" scheme="https://www.tbfeng.com/tags/%E5%88%86%E9%A1%B5/"/>
-    
-      <category term="配置" scheme="https://www.tbfeng.com/tags/%E9%85%8D%E7%BD%AE/"/>
     
   </entry>
   
