@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://www.tbfeng.com/learn-markdown-in-three-minutes.html</loc>
+    <lastmod>2019-05-31</lastmod>
+  </url>  <url>
     <loc>https://www.tbfeng.com/how-to-choose-blog-domain-name.html</loc>
     <lastmod>2019-05-31</lastmod>
   </url>  <url>
@@ -50,9 +53,6 @@
     <lastmod>2019-01-06</lastmod>
   </url>  <url>
     <loc>https://www.tbfeng.com/memory-in-South-Korea.html</loc>
-    <lastmod>2019-01-06</lastmod>
-  </url>  <url>
-    <loc>https://www.tbfeng.com/learn-markdown-in-three-minutes.html</loc>
     <lastmod>2019-01-06</lastmod>
   </url>  <url>
     <loc>https://www.tbfeng.com/learn-go-install-go-tools.html</loc>
